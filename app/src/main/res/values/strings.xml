@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Bible Resources</string>
+    <string name="company_name">Moldova Crestina</string>
+    <string name="welcome_title">WELCOME</string>
+    <string name="title_activity_main_list">Resources</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bible Resources</string>
+    <string name="nav_header_subtitle">contact@moldovacrestina.md</string>
+    <string name="nav_header_desc">Navigation Header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bible_study_detail">BibleStudyDetailActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="email_subject">Bible Resources Contact</string>
+    <string name="email_company_contact">contact@moldovacrestina.md</string>
+    <string name="email_prompt">\"Send mail...\"</string>
+    <string name="error_send_email">\"There is no email client installed.\"</string>
+    <string name="bible_study_1_description">As dori mult sa ne putem intalni ca sa-ti impartasesc relatari incredibile despre ce s-a intamplat in vietile oamenilor care au studiat Numele lui Dumnezeu. In timp ce vei descoperi Numele lui Dumnezeu, eu cred ca vei avea propria-ti relatare!</string>
+    <string name="bible_study_1_name">Doamne, vreau să Te cunosc</string>
+    <string name="bible_study_1_phone">000-000-0000</string>
+    <string name="bible_study_1_webaddress">https://moldovacrestina.md/biblestudybooks/doamne-vreau-sa-te-cunosc-2/</string>
+    <string name="bible_study_1_email">contact@moldovacrestina.md</string>
+    <string name="bible_study_1_location">moldova</string>
+    <string name="bible_study_2_description">Descoperă ce spune Dumnezeu despre moarte, a muri și viața de după moarte. Mulți oameni sunt îngrijorați de ceea ce se află dincolo de pragul morții,  dar noi trăim într-o epocă caracterizată de opinii contradictorii. Cum putem fi siguri de ceea ce este adevărat?</string>
+    <string name="bible_study_2_name">Cerul, Iadul și Viața de după moarte</string>
+    <string name="bible_study_2_phone"></string>
+    <string name="bible_study_2_webaddress">https://moldovacrestina.md/biblestudybooks/cerul-iadul-si-viata-de-dupa-moarte/</string>
+    <string name="bible_study_2_email"></string>
+    <string name="bible_study_2_location">chisinau moldova</string>
+    <string name="bible_study_3_description">Este foarte probabil că vei dori să te căsătoreşti. Cel puţin gândeşti astfel deoarece ai observat că există sexul opus! Deoarece toţi vrem să ne iubească cineva şi deoarece nu vrem să fim singuri toată viaţa noastră, soluţia naturală este căsătoria.</string>
+    <string name="bible_study_3_name">Într-o zi mă voi căsători</string>
+    <string name="bible_study_3_phone"></string>
+    <string name="bible_study_3_webaddress"></string>
+    <string name="bible_study_3_email"></string>
+    <string name="bible_study_3_location"></string>
+    <string name="email_default_text">Enter email message</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+
+</resources>
